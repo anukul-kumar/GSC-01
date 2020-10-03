@@ -4,5 +4,9 @@ GOOGLE DEVELOPERS COMMUNITY BHOPAL
 GDG BHOPAL ANDROID
  
  
- BASIC LAYOUT DESIGN OF THE CONTACT APP IN ANDROID STUDIO IN SDK API16
+ A layout defines the visual structure for a user interface, such as the UI for an activity or app widget.
+ 
+ 
+ 
+
  
